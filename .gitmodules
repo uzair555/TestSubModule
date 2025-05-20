@@ -1,0 +1,3 @@
+[submodule "src/SharedLogic"]
+	path = src/SharedLogic
+	url = https://github.com/uzair555/SharedLogic.git
